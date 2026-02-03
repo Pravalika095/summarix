@@ -4,3 +4,4 @@ Werkzeug==3.0.1
 requests>=2.28
 beautifulsoup4>=4.11
 lxml>=4.9
+unicorn==21.2.0
